@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haydenjin
 - 👀 I’m interested in programming, starting businesses, and investing 
-- 🌱 I’m currently in my third year of Software engineering 
+- 🌱 I’m currently in my fourth year of Software engineering 
 - 📫 You can reach me at haydenjin@gmail.com 
 
 <!---
